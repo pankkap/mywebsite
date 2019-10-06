@@ -184,7 +184,7 @@ footer {
     }
 
     aside img {
-        height:110px;
+        display:none;
     }
 }
 
